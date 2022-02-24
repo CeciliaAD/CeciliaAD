@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CeciliaAD
+- 👀 I’m interested in working as a Developer
+- 🌱 I’m currently learning typescript for React
+- 💞️ I’m looking to collaborate on some open source project.
+- 📫 How to reach me ... https://www.linkedin.com/in/cecilia-alarc%C3%B3n-darr%C3%A9-5170b2a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsCsEghWLS96Jom4STAKufA%3D%3D
